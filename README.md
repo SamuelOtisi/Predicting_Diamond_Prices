@@ -1,0 +1,2 @@
+# Predicting_Diamond_Prices
+A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, in this project I have used the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds. Every file and code for this project is found on my Github repository attached above on project URL section.
